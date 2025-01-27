@@ -575,7 +575,8 @@
       font-weight: 400;
       line-height: normal;
       letter-spacing: 2.5px;
-      text-align: right; }
+      text-align: right;
+      text-transform: uppercase; }
     .header .info__inner h4 {
       color: #F3C231;
       font-family: Robotesqa4F-Bold;
