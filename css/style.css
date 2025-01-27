@@ -231,6 +231,12 @@
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex; }
+  .header__inner .menu-mob .links__language {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 110px;
+    margin-top: 25px; }
   .header__inner .menu-mob .mob-lan {
     display: -webkit-box;
     display: -ms-flexbox;
