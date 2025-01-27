@@ -1,0 +1,524 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202407 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.electric-works.kyiv.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2005                
+POS_TIME 2679                
+POS_VISITOR 9606                
+POS_DAY 13955               
+POS_DOMAIN 3426                
+POS_LOGIN 3658                
+POS_ROBOT 3813                
+POS_WORMS 4276                
+POS_EMAILSENDER 4407                
+POS_EMAILRECEIVER 4550                
+POS_SESSION 14619               
+POS_SIDER 14787               
+POS_FILETYPES 4685                
+POS_DOWNLOADS 4889                
+POS_OS 4937                
+POS_BROWSER 5123                
+POS_SCREENSIZE 5839                
+POS_UNKNOWNREFERER 5913                
+POS_UNKNOWNREFERERBROWSER 6424                
+POS_ORIGIN 6532                
+POS_SEREFERRALS 6670                
+POS_PAGEREFS 6848                
+POS_SEARCHWORDS 7078                
+POS_KEYWORDS 7264                
+POS_MISC 2343                
+POS_ERRORS 7359                
+POS_CLUSTER 3514                
+POS_SIDER_404 7450                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240801010459 2 222 12254477592599
+FirstTime 20240701141708
+LastTime 20240730184521
+LastUpdate 20240801055156 2 0 1 0 0
+TotalVisits 93                  
+TotalUnique 83                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 125                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 1 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 72 4363528 7 11 97452
+1 2 2 53535 0 1 393
+2 0 0 0 0 1 395
+3 1 4 13498 1 2 47141
+4 4 5 61645 6 26 323033
+5 4 10 118257 34 42 258791
+6 0 0 0 4 53 890441
+7 2 8 26996 2 6 94420
+8 5 5 72717 24 31 64934
+9 24 223 12832780 13 19 54281
+10 11 70 4839195 11 16 124329
+11 14 136 8709525 20 31 213934
+12 21 206 8979611 9 13 5173
+13 30 266 17976997 36 115 6117688
+14 6 6 38364 31 46 810698
+15 14 76 4401182 3 4 72816
+16 15 76 573914 13 26 1690718
+17 13 13 83122 2 17 1888780
+18 25 209 8753632 13 19 54303
+19 34 280 13119418 33 48 111635
+20 1 4 13498 1 2 71626
+21 1 1 6394 6 44 1008907
+22 1 1 6394 1 2 49103
+23 2 5 19892 2 3 94282
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 237 1678 85064094
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+Googlebot/ 103 2771564 20240721214417 0
+dataprovider\.com 73 5724598 20240711133108 0
+Googlebot\-Image/ 53 4477043 20240721214422 0
+no_user_agent 13 612833 20240729112400 0
+custo 6 282846 20240730073819 0
+netcraft 3 141423 20240704231611 0
+TelegramBot 1 6394 20240720131210 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 6394 20240703084500 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+woff 92 9274104 0 0
+js 204 3499712 0 0
+png 1103 66775977 0 0
+svg 23 308862 0 0
+css 111 1116710 0 0
+html 118 1362041 0 0
+webp 27 2726688 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+macosx7 8 2
+Unknown 76 25
+macosx 11 11
+win8 1 1
+linuxandroid 606 58
+linux 15 15
+winnt 1 1
+win10 421 76
+ios_iphone 539 48
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 31
+chrome126.0.6478.71 68 6
+firefox120.0 2 2
+chrome105.0.0.0 2 2
+chrome61.0.3163.100 1 1
+chrome125.0.6422.175 1 1
+mozilla 41 11
+chrome122.0.0.0 129 15
+safari17.5 268 24
+chrome126.0.0.0 332 35
+chrome66.0.3359.181 21 21
+chrome106.0.0.0 3 3
+chrome126.0.6478.130 68 6
+chrome74.0.3729.131 4 4
+opera29.0.1795.60 1 1
+chrome91.0.4472.114 4 4
+firefox33.0 10 10
+Unknown 21 0
+chrome126.0.6478.134 136 12
+chrome17.0.963.56 8 2
+chrome121.0.0.0 6 6
+chrome83.0.4103.97 11 11
+firefox44.0 1 1
+chrome126.0.6478.133 68 6
+chrome108.0.0.0 64 6
+safari 204 18
+chrome120.0.0.0 4 4
+chrome117.0.5938.132 126 12
+chrome100.0.4896.60 5 5
+iphone 67 6
+chrome44.0.2403.61 1 1
+chrome80.0.3987.162 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_Firefox/33.0 20240715083758
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240722071921
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko)_Chrome/74.0.3729.131_Safari/537.36 20240727142211
+cortex/1.0 20240703092108
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20240710041156
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240726201039
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+cortex/1.0 20240703092108
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 97 156
+From1 0 0
+From2 6 7
+From3 6 6
+From4 128 1509
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google_com 0 1
+www_google_com 6 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://l.instagram.com 3 3
+https://lm.facebook.com 2 2
+http://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//electric-works.kyiv.ua/ 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//electric-works.kyiv.ua/ 1
+https 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 308 122040
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 68
+/var/.env 2 -
+/s3/.git/config 2 -
+/css/.git/config 2 -
+/env.test.js 2 -
+/backend/.git/config 2 -
+/security.txt 1 http://www.electric-works.kyiv.ua/security.txt
+/wp-content/plugins/.git/config 2 -
+/fonts/slick.ttf 36 https://electric-works.kyiv.ua/
+/.env.www 2 -
+/index/.git/config 2 -
+/.env.production.local 2 -
+/wp-login.php 1 http://www.google.com.hk
+/home/.git/config 2 -
+/assets/.git/config 2 -
+/http/.git/config 2 -
+/google495c1f5373e8224f.html 1 -
+/.env.stage 2 -
+/config.json 3 -
+/.env.prod 2 -
+/www/.env 2 -
+/wp-content/.git/config 2 -
+/.env.development.local 2 -
+/.env_1 2 -
+/.env.live 2 -
+/api/.git/config 2 -
+/.git/HEAD 1 http://www.electric-works.kyiv.ua/.git/HEAD
+/.env.dev.local 2 -
+/var/.git/config 2 -
+/.env_sample 2 -
+/dev/.git/config 2 -
+/env.prod.js 2 -
+/favicon/site.webpanifest 24 https://electric-works.kyiv.ua/
+/.env.local 2 -
+/html/.env 2 -
+/fonts/slick.woff 38 https://electric-works.kyiv.ua/
+/fonts/slick.svg 14 https://electric-works.kyiv.ua/
+/.git/config 1 -
+/.env.save 2 -
+/env.js 2 -
+/api/.env 2 -
+/git/.git/config 2 -
+/app/.git/config 2 -
+/site/.git/config 2 -
+/.env.bak 2 -
+/humans.txt 1 http://www.electric-works.kyiv.ua/humans.txt
+/login/.git/config 2 -
+/www/.git/config 2 -
+/.env.old 2 -
+/.well-known/security.txt 1 http://www.electric-works.kyiv.ua/.well-known/security.txt
+/.env.dev 2 -
+/.env.backup 2 -
+/env.development.js 2 -
+/admin/.git/config 2 -
+/vendor/.git/config 2 -
+/robots.txt 30 http://electric-works.kyiv.ua/robots.txt
+/env.production.js 2 -
+/ads.txt 1 http://www.electric-works.kyiv.ua/ads.txt
+/sitemap.xml 13 http://electric-works.kyiv.ua/sitemap.xml
+/wp-content/themes/.git/config 2 -
+/wiki/.git/config 2 -
+/ajax-loader.gif 38 https://electric-works.kyiv.ua/
+/.env.prod.local 2 -
+/env.dev.js 2 -
+/web/.git/config 2 -
+/back/.git/config 2 -
+/.env.production 2 -
+/.env 2 -
+/htdocs/.git/config 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 125
+89.64.7.144 48 459 18221253 20240724114440
+178.251.109.239 36 406 21855439 20240718191833
+205.169.39.20 6 63 4560128 20240702131519
+46.211.100.209 6 68 4352450 20240726122705
+88.155.210.187 6 66 4346707 20240720131610
+88.155.218.100 6 69 0 20240726122454
+37.73.27.232 6 68 4350030 20240702190313
+88.155.179.69 6 66 4346707 20240720131225
+37.73.2.135 6 68 4350030 20240702154716
+205.169.39.24 6 63 4560128 20240702130647
+173.252.79.5 0 1 74573 
+143.110.213.23 1 1 6394 20240701175503
+62.141.44.236 1 1 6394 20240705230345
+206.189.184.13 1 1 6394 20240729092741
+199.45.154.130 1 4 13498 20240726201032
+8.41.221.59 2 2 53535 20240714135715
+34.221.217.53 1 1 6394 20240730163954
+66.220.149.12 1 4 184513 20240703092016
+66.220.149.20 0 2 3943 
+35.90.120.69 1 1 6394 20240714171048
+64.226.87.76 1 1 6394 20240710214141
+178.254.38.45 1 1 6394 20240729150310
+35.86.83.230 1 1 6394 20240710164712
+66.220.149.29 0 1 69899 
+178.254.24.91 1 1 6394 20240715093305
+199.244.88.218 1 1 6394 20240710110805
+64.225.76.129 1 1 6394 20240721111433
+69.171.249.113 0 1 19556 
+54.213.196.254 2 2 12788 20240716171326
+87.236.176.73 0 1 1962 
+66.220.149.15 0 1 1775 
+66.220.149.32 0 2 18827 
+66.220.149.4 0 3 34306 
+54.88.179.33 2 2 94282 20240717104015
+8.41.221.51 2 2 53535 20240715083758
+31.13.115.8 0 1 67190 
+87.236.176.2 0 1 1361 
+34.209.237.48 2 2 12788 20240703174313
+69.63.189.115 0 1 74573 
+8.41.221.57 2 2 53535 20240713194952
+178.254.12.183 1 1 6394 20240722130819
+69.171.230.10 0 1 19507 
+34.123.77.163 3 3 19182 20240703084457
+66.220.149.6 0 5 1067864 
+173.252.83.28 0 1 8096 
+87.236.176.243 0 1 3781 
+162.142.125.196 1 4 13498 20240702002022
+87.236.176.188 1 1 6394 20240721122702
+34.222.74.93 1 1 6394 20240728150400
+205.169.39.13 1 1 6394 20240725220919
+66.220.149.19 0 10 645837 
+34.222.110.81 1 1 47141 20240711123509
+23.110.169.197 1 1 6394 20240730120926
+35.166.142.109 2 2 12788 20240701180205
+87.236.176.149 1 1 6394 20240714193025
+8.41.221.56 2 2 53535 20240713015951
+35.89.179.144 2 2 12788 20240730184521
+66.249.89.66 1 1 355 20240710041156
+18.236.219.222 1 1 6394 20240724184509
+69.171.230.9 0 1 76822 
+87.236.176.86 0 1 1361 
+199.45.155.77 1 4 13498 20240726162213
+144.217.135.249 1 1 47141 20240711133045
+104.166.80.149 1 1 6394 20240711170423
+104.166.80.209 1 1 6394 20240712041534
+199.45.155.100 1 4 13498 20240722070617
+69.171.251.5 0 1 993566 
+152.32.215.226 2 4 56257 20240719134219
+31.13.127.26 0 1 68656 
+31.13.127.6 0 1 68209 
+199.244.88.231 1 1 6394 20240728152051
+199.45.155.65 1 4 13498 20240722032102
+66.220.149.11 1 8 219253 20240703092013
+87.236.176.158 0 1 3781 
+66.220.149.39 2 16 2049265 20240703092016
+69.63.189.112 0 1 18912 
+66.220.149.3 0 2 1173 
+69.171.251.18 0 1 24612 
+34.221.162.243 2 2 12788 20240702192212
+89.22.101.69 1 1 6394 20240721190216
+165.154.164.21 2 4 56257 20240704053730
+66.220.149.23 2 8 321999 20240703092016
+34.209.133.157 1 1 6394 20240710164710
+54.185.110.239 1 1 6394 20240730164005
+31.13.127.27 0 1 993566 
+87.236.176.7 0 1 3781 
+31.13.115.6 0 1 67190 
+34.220.165.20 2 2 12788 20240710191227
+35.95.116.130 1 1 6394 20240724152649
+205.169.39.43 1 1 6394 20240722091922
+35.94.231.192 2 2 12788 20240726174316
+69.63.189.2 0 1 76822 
+54.187.84.147 1 1 6394 20240724152820
+87.236.176.203 0 1 1361 
+87.236.176.168 0 1 1962 
+69.171.251.116 0 1 68209 
+54.202.193.115 1 1 6394 20240728150358
+87.236.176.25 1 1 6394 20240722071920
+34.213.130.65 2 2 12788 20240712154448
+66.220.149.33 0 1 5489 
+205.169.39.8 1 1 6394 20240701141708
+35.171.144.152 3 3 141423 20240717190846
+87.236.176.55 0 1 1962 
+52.25.148.65 1 1 6394 20240702172829
+206.189.141.38 1 1 6394 20240707142450
+109.70.108.10 4 4 25576 20240727142211
+173.252.87.4 0 1 68656 
+54.214.193.202 2 2 12788 20240705174237
+87.236.176.217 0 1 1361 
+118.194.231.192 1 2 48502 20240720051359
+165.154.59.118 1 2 48502 20240706043750
+87.236.176.131 1 1 6394 20240715050959
+52.27.44.71 2 2 12788 20240704180410
+66.249.64.128 1 1 6394 20240710045130
+69.171.230.5 0 1 993566 
+8.41.221.49 2 2 53535 20240712105245
+69.171.251.1 0 1 12549 
+199.45.154.156 1 4 13498 20240701232032
+87.236.176.104 0 1 3781 
+34.214.51.236 1 1 6394 20240702172822
+87.236.176.83 0 1 1962 
+69.63.189.4 0 1 24612 
+66.220.149.30 0 2 7846 
+64.227.135.96 1 1 6394 20240715092053
+142.202.51.42 6 68 4350030 20240703091834
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20240701 11 70 4241102 5
+20240702 67 674 30930431 12
+20240703 23 221 17393559 8
+20240704 4 6 69045 2
+20240705 3 3 19182 2
+20240706 1 2 48502 1
+20240707 1 1 6394 1
+20240710 8 8 45113 7
+20240711 3 3 100676 3
+20240712 5 5 72717 3
+20240713 4 4 107070 2
+20240714 4 7 73427 3
+20240715 5 8 79821 4
+20240716 2 2 12788 1
+20240717 5 5 235705 3
+20240718 18 199 13276478 3
+20240719 2 4 56257 1
+20240720 13 134 8741916 3
+20240721 3 6 26286 3
+20240722 15 82 588122 6
+20240724 9 71 4369212 4
+20240725 1 1 6394 1
+20240726 16 147 4392234 5
+20240727 4 4 25576 1
+20240728 3 3 19182 3
+20240729 2 3 94935 2
+20240730 5 5 31970 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 2
+5mn-15mn 1
+0s-30s 90
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 117 1361686 89 70
+/fonts/Inter-Bold.woff 23 2877696 1 1
+/fonts/Inter-ExtraLight.woff 23 2822184 1 2
+/fonts/Inter-Regular.woff 23 2695968 0 10
+/fonts/Robotesqa4F-Bold.woff 23 878256 1 1
+/img/image_background_header_mob.webp 17 989898 0 6
+/img/image_background_header.webp 6 1360060 0 1
+/googleb9428777348685a9.html 1 355 1 1
+/img/big-photo-2.webp 1 38638 0 0
+/img/big-photo-3.webp 1 71626 0 0
+/img/big-photo-4.webp 1 149446 0 1
+/img/big-photo-1.webp 1 117020 0 0
+END_SIDER

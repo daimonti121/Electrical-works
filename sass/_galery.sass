@@ -1,0 +1,129 @@
+@import 'media'
+@import 'fonts'
+@import 'variables'
+@import 'coments'
+
+.galery
+    margin-top: 240px
+    @include _979
+        margin-top: 55px
+    &__light
+        width: 100%
+        position: relative
+        @include _979
+            display: none
+
+        .lamp
+            display: block
+            margin: 0 auto
+            @include _1550
+                width: 450px
+            @include _1440
+                width: 400px
+
+        .light
+            opacity: 0
+            width: max-content
+            position: absolute
+            left: calc(50% - 1027px)
+            top: -55px
+            @include _1550
+                width: 1650px
+                left: calc(50% - 825px)
+                top: -40px
+            @include _1440
+                width: 1440px
+                left: calc(50% - 720px)
+                top: -30px
+
+        .element-animation.element-show
+            animation: glow 0.5s linear
+            opacity: 1
+    &__inner
+        margin-top: 50px
+        z-index: 10
+        position: relative
+        @include _979
+            margin-top: 0
+    &__title
+        display: block
+        margin: 0 auto
+        text-align: center
+        h2
+            color: #B9DDFD
+            text-align: center
+            font-family: $second-font
+            font-size: 38px
+            font-style: normal
+            font-weight: 400
+            line-height: normal
+            @include _979
+                font-size: 25px
+
+    &__photos
+        display: flex
+        justify-content: space-between
+        flex-wrap: wrap
+        margin-top: 70px
+        @include _979
+            display: none
+
+    &__photo-block
+        margin: 30px
+        display: inline-block
+        img
+            border-radius: 5px
+            border: 1px solid #4098E6
+            width: 256px
+            height: 216px
+            // @include _979
+            //     box-shadow: 3px 0px 70px 5px #1993ff
+        .element-animation.element-show
+            @include _979
+                transition-delay: 1s
+                transition: all 1s
+                box-shadow: 3px 0px 70px 5px #1993ff
+
+.galery__mob
+    display: none
+    @include _979
+        display: flex
+        justify-content: center
+        margin-bottom: 20px
+
+    .slick-initialized .slick-slide
+        display: flex
+        justify-content: center
+        outline: none
+    .second
+        max-width: 400px
+        width: 100%
+    .slick-next
+        right: 38%
+    .slick-prev
+        left: 28%
+        z-index: 1000
+
+    .slick-prev, .slick-next
+        top: 100%
+    
+.pswp__counter
+    @include _979
+        display: none
+
+.pswp__container
+    @include _979
+        margin: 0px 0px !important
+
+.slick-track
+    max-width: max-content
+.slick-slider .slick-track, .slick-slider .slick-list
+    overflow: visible
+
+.flex-gallery
+    @include _1300
+        display: flex
+        flex-wrap: wrap
+        justify-content: center
+    @include _979
+        display: none

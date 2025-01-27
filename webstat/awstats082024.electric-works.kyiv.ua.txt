@@ -1,0 +1,667 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202408 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.electric-works.kyiv.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2005                
+POS_TIME 2683                
+POS_VISITOR 14901               
+POS_DAY 17754               
+POS_DOMAIN 3424                
+POS_LOGIN 3656                
+POS_ROBOT 3811                
+POS_WORMS 4389                
+POS_EMAILSENDER 4520                
+POS_EMAILRECEIVER 4663                
+POS_SESSION 18348               
+POS_SIDER 18515               
+POS_FILETYPES 4798                
+POS_DOWNLOADS 5013                
+POS_OS 5061                
+POS_BROWSER 5226                
+POS_SCREENSIZE 5689                
+POS_UNKNOWNREFERER 5763                
+POS_UNKNOWNREFERERBROWSER 6107                
+POS_ORIGIN 6189                
+POS_SEREFERRALS 6328                
+POS_PAGEREFS 6493                
+POS_SEARCHWORDS 6669                
+POS_KEYWORDS 6855                
+POS_MISC 2347                
+POS_ERRORS 6950                
+POS_CLUSTER 3512                
+POS_SIDER_404 7072                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240901051951 25 4029 10976719286818
+FirstTime 20240801010459
+LastTime 20240831204535
+LastUpdate 20240901053747 25 0 24 0 0
+TotalVisits 66                  
+TotalUnique 53                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 81                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 1 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 135 8629685 14 20 7952
+1 4 4 107320 53 53 20978
+2 7 70 4360455 56 58 22967
+3 1 4 13623 5 8 50413
+4 7 10 251517 231 231 147589
+5 1 15 209291 2 3 96547
+6 1 4 13623 4 6 120729
+7 1 1 6519 3 4 161492
+8 0 0 0 3 5 66238
+9 8 69 4317314 3 5 1989
+10 4 6 71539 5 12 102197
+11 7 64 4566274 11 78 1188305
+12 9 67 4658331 11 15 53634
+13 25 204 13854818 29 40 27780
+14 1 1 6519 0 0 0
+15 2 2 54577 26 133 6451673
+16 12 75 5144119 5 7 104218
+17 25 153 9152954 15 22 103683
+18 7 70 4360455 4 7 50047
+19 9 24 217410 1 7 48451
+20 5 11 46803 0 2 0
+21 14 135 9149714 10 14 147763
+22 9 75 4381198 4 7 50045
+23 2 8 27246 5 31 610768
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 174 1207 73601304
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Googlebot/ 90 1803845 20240830151158 0
+dataprovider\.com 73 5726557 20240815154003 0
+Applebot/ 30 523396 20240821114101 0
+facebookexternalhit/ 14 438211 20240823160141 0
+Googlebot\-Image/ 12 139088 20240830151201 0
+no_user_agent 8 384464 20240818033909 0
+custo 5 240290 20240830232345 0
+netcraft 3 144174 20240808215501 0
+Apache\-HttpClient/ 2 13038 20240825131102 0
+bot[\s_+:,\.\;\/\\-] 1 6519 20240831163615 0
+bingbot/ 1 6519 20240825133753 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 786 56201555 0 0
+map 3 18063 0 0
+html 83 954545 0 0
+js 151 3340643 0 0
+css 80 994896 0 0
+svg 16 274544 0 0
+webp 24 3573410 0 0
+woff 64 8243648 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+macosx11 1 1
+Unknown 61 16
+win10 451 83
+linux 9 4
+linuxandroid 281 32
+ios_iphone 392 36
+macosx 12 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 20
+chrome124.0.0.0 7 1
+chrome122.0.0.0 1 1
+mozilla 61 16
+firefox125.0 1 1
+chrome83.0.4103.97 2 2
+chrome108.0.0.0 13 0
+chrome127.0.0.0 400 45
+chrome100.0.4896.60 9 9
+chrome66.0.3359.181 15 15
+safari 260 24
+chrome105.0.0.0 2 2
+chrome106.0.0.0 1 1
+chrome91.0.4472.114 4 4
+chrome126.0.0.0 11 6
+chrome127.0.6533.103 143 18
+chrome107.0.0.0 4 1
+firefox52.0 1 1
+iphone 132 12
+chrome128.0.0.0 139 14
+chrome80.0.3987.162 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240829065237
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20240809043628
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240831204539
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 60 127
+From1 0 0
+From2 16 16
+From3 4 4
+From4 94 1060
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 16 16
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://l.instagram.com 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//electric-works.kyiv.ua/ 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//electric-works.kyiv.ua/ 2
+https 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+429 3 486
+404 502 201377
+206 1 6566
+403 2 790
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 269
+/wp-content/radio.php 1 -
+/wp-content/gallery/about.php 1 -
+/wp-admin/css/colors/xmrlpc.php 1 -
+/wp-content/blogs.dir/about.php 1 -
+/wp-admin/css/wp-login.php 1 -
+/wp-content/dropdown.php 1 -
+/content.php 2 -
+/index.php 3 -
+/wp-admin/css/colors/cloud.php 1 -
+/themes.php 3 -
+/wp-admin/user/themes.php 1 -
+/wp-includes/ID3/about.php 1 -
+/admin-post.php 1 -
+/moon.php 2 -
+/wp-content/cong.php 1 -
+/wp-includes/index.php 1 -
+/chosen.php 4 -
+/avaa.php 1 -
+/wp-admin/css/about.php 1 -
+/log.php 3 -
+/images/about.php 1 -
+/wp-includes/404.php 1 -
+/wp-includes/function.php 1 -
+/.well-known/index.php 1 -
+/wp-content/themes.php 1 -
+/shell.php 2 -
+/.well-known/wp-load.php 1 -
+/wp-includes/block-patterns/about.php 1 -
+/byp.php 1 -
+/.well-known/acme-challenge/plugins.php 1 -
+/cgi-bin/radio.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 1 www.google.com
+/wp-2019.php 2 -
+/img/xmrlpc.php 1 -
+/.well-known/acme-challenge/radio.php 1 -
+/makeasmtp.php 3 -
+/wp-admin/css/ 2 binance.com
+/wp-content/updates.php 1 -
+/wp-admin/includes/about.php 1 -
+/about.php 4 -
+/wp-activate.php 2 -
+/wp-includes/wp-activate.php 1 -
+/wp-admin/dropdown.php 1 -
+/wp-content/banners/about.php 1 -
+/wp-content/plugins/dropdown.php 1 -
+/wp-admin/css/license.php 1 -
+/wp-admin/index.php 1 -
+/wp-content/upgrade-temp-backup/about.php 1 -
+/wp-includes/SimplePie/about.php 1 -
+/.env 2 -
+/wp-includes/blocks/about.php 1 -
+/link.php 2 -
+/wp-includes/SimplePie/wp-login.php 1 -
+/wp-admin/images/cloud.php 1 -
+/wp-content/plugins/about.php 1 -
+/wp-admin/themes.php 1 -
+/function.php 1 -
+/wp-includes/wp-load.php 1 -
+/bypass.php 2 -
+/wp-consar.php 1 -
+/wp-admin/css/colors/coffee/xmrlpc.php 1 -
+/cgi-bin/cloud.php 1 -
+//wp-content/plugins/fix/up.php 5 -
+/contact.php 1 -
+/wp-admin/404.php 1 -
+/ebs.php7 1 -
+/wp-trackback.php 3 -
+/wp-admin/js/widgets/cloud.php 1 -
+/wp-includes/wp-login.php 1 -
+/ae.php 2 -
+/ajax-loader.gif 28 https://electric-works.kyiv.ua/slick/slick-theme.css
+/yanz.php 1 -
+/mail.php 2 -
+/wp-content/upgrade/function.php 1 -
+/alfa-rex.php7 2 -
+/wp-admin/js/widgets/xmrlpc.php 1 -
+/wp-includes/images/css.php 1 -
+/wp-load.php 2 -
+/wp-admin/includes/cloud.php 1 -
+/images/cloud.php 1 -
+/cgi-bin/about.php 1 -
+/fonts/slick.woff 28 https://electric-works.kyiv.ua/slick/slick-theme.css
+/wp-links-opml.php 1 -
+/wp-comments-post.php 2 -
+/.aws/credentials 2 -
+/404.php 3 -
+/wp-includes/admin.php 1 -
+/admin/upload/css.php 1 -
+/doc.php 2 -
+/install.php 2 -
+/wp-admin/autoload_classmap.php 1 -
+/wp-includes/repeater.php 1 -
+/images/xmrlpc.php 1 -
+/ads.txt 2 http://electric-works.kyiv.ua/ads.txt
+/wp-admin/cloud.php 1 -
+/.well-known/pki-validation/wp-config.php 1 -
+/wp-content/plugins/Cache/Cache.php 1 -
+/ws.php 2 -
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-content/index.php 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 1 -
+/wp-includes/Requests/about.php 1 -
+/mah.php 2 -
+/wp-admin/images/about.php 1 -
+/cloud.php 1 -
+/wp-admin/xmrlpc.php 1 -
+/.well-known/acme-challenge/cloud.php 1 -
+/wp-signup.php 3 -
+/humans.txt 1 http://www.electric-works.kyiv.ua/humans.txt
+/wp-includes/Text/about.php 1 -
+/css.php 3 -
+/test.php 1 -
+/wp-includes/makeasmtp.php 1 -
+/.well-known/pki-validation/afnew.php 1 -
+/adminfuns.php7 1 -
+/wp.php 2 -
+/wp-admin/maint/maint/ajax-actions.php 1 -
+/ova-tools.php 1 -
+/wp-includes/cloud.php 1 -
+/wp-admin/includes/xmrlpc.php 1 -
+/wp-includes/bak.php 1 -
+/wp-content/themes/seotheme/mar.php 1 -
+/wp-admin/network/xmrlpc.php 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 1 -
+/about/function.php 2 -
+/wp-includes/widgets/about.php 1 -
+/.well-known/file.php 1 -
+/wp-admin/js/widgets/about.php7 1 -
+/wp-content/themes/sketch/404.php 1 -
+/wp-includes/system_log.php 1 -
+/bak.php 3 -
+/wp-info.php 1 -
+/radio.php 3 -
+/google495c1f5373e8224f.html 1 -
+/js/photo/photoswipe-lightbox.esm.js.map 4 -
+/wso112233.php 2 -
+/wp-sigunq.php 2 -
+/wp-admin/network/cloud.php 1 -
+/wp-admin/user/xmrlpc.php 1 -
+/alfanew.php7 1 -
+/css/index.php 1 -
+/wp-content/about.php 1 -
+/wp-content/upgrade/index.php 1 -
+/api/.env 2 -
+/.well-known/cloud.php 1 -
+/alfanew2.php7 1 -
+/wp-login.php 2 -
+/inputs.php 2 -
+/favicon/site.webpanifest 28 https://electric-works.kyiv.ua/
+/css/cloud.php 1 -
+/file.php 1 -
+/sitemap.xml 1 -
+/wp-content/languages/about.php 1 -
+/updates.php 3 -
+/xmrlpc.php 3 -
+/libraries/legacy/updates.php 1 -
+/wp-admin/user/cloud.php 1 -
+/wp-content/cloud.php 1 -
+/cache-compat.php 1 -
+/.well-known/acme-challenge/makeasmtp.php 1 -
+/wp-admin/css/index.php 1 -
+/img/about.php 1 -
+/wp-admin/network/index.php 1 -
+/upfile.php 2 -
+/repeater.php 1 -
+/media.php 1 -
+/libraries/vendor/updates.php 1 -
+/wp-conflg.php 2 -
+/wp-admin/user/index.php 1 -
+/simple.php 7 -
+/wp-admin/js/about.php 1 -
+/files/index.php 1 -
+/wsoyanz.php 1 -
+/wp-content/themes/admin.php 1 -
+/wp-admin/about.php 1 -
+/.well-known/wp-login.php 1 -
+/wp-mail.php 3 -
+/text.php 1 -
+/post.php 2 -
+/wp-includes/pomo/about.php 1 -
+/dropdown.php 4 -
+/env.js 2 -
+/cgi-bin/themes.php 1 -
+/robots.txt 22 -
+/as.php 3 -
+/.well-known/makeasmtp.php 1 -
+/wp-includes/style-engine/about.php 1 -
+/wp-blog-header.php 2 -
+/wp-includes/images/about.php 1 -
+/wp-includes/about.php 1 -
+/cong.php 1 -
+/cgi-bin/file.php 1 -
+/wp-admin/images/file.php 1 -
+/wp-includes/Requests/Text/admin.php 1 -
+/.well-known/acme-challenge/autoload_classmap.php 1 -
+/wp-content/plugins/google-seo-rank/module.php 2 -
+/wp-content/themes/about.php 1 -
+/wp-content/repeater.php 1 -
+/wp-admin/images/wp-login.php 1 -
+/css/xmrlpc.php 1 -
+/wp-content/plugins/seoplugins/mar.php 1 -
+/.well-known/pki-validation/xmrlpc.php 1 -
+/filemanager/dialog.php 1 -
+/ws.php7 1 -
+/upload.php 1 -
+/libraries/phpmailer/updates.php 1 -
+/wp-admin/includes/index.php 1 -
+/cgi-bin/index.php 1 -
+/.well-known/pki-validation/about.php 1 -
+/.well-known/radio.php 1 -
+/fonts/slick.ttf 28 https://electric-works.kyiv.ua/slick/slick-theme.css
+/wp-includes/customize/about.php 1 -
+/wp-content/autoload_classmap.php 1 -
+/cgi-bin/404.php 1 -
+/wp-includes/rest-api/about.php 1 -
+/img/cloud.php 1 -
+/cgi-bin/wp-login.php 1 -
+/lufix.php 3 -
+/blog.php 2 -
+/edit.php 3 -
+/wp-cron.php 2 -
+/admin.php 2 -
+/cgi-bin/xmrlpc.php 2 -
+/.well-known/acme-challenge/index.php 1 -
+/wp-content/plugins/seoo/wsoyanz.php 1 -
+/wp-includes.bak/html-api/about.php 1 -
+/security.txt 1 http://www.electric-works.kyiv.ua/security.txt
+/wp-admin/images/xmrlpc.php 1 -
+/wp-includes/themes.php 1 -
+/wp-admin/css/colors/blue/cloud.php 1 -
+/.well-known/pki-validation/cloud.php 1 -
+/plugins.php 2 -
+/wp-content/updraft/about.php 1 -
+/wp-includes/IXR/about.php 1 -
+/classwithtostring.php 1 -
+/classsmtps.php 2 -
+/wp-configs.php 1 -
+/wp-content/themes/themes.php 1 -
+/wp-admin/license.php 1 -
+/ajax-actions.php 1 -
+/fonts/slick.svg 5 https://electric-works.kyiv.ua/
+/wp-admin/css/colors/index.php 1 -
+/wp-admin/file.php 1 -
+/.well-known/admin.php 1 -
+/wp-admin/css/colors/coffee/cloud.php 1 -
+/autoload_classmap.php 1 -
+/.well-known/acme-challenge/admin.php 1 -
+/atomlib.php 2 -
+/.gitlab-ci.yml 2 -
+/wp-p.php7 1 -
+/.well-known/acme-challenge/xmrlpc.php 1 -
+/wp-content/themes/index.php 1 -
+/.well-known/about.php 1 -
+/ini.php 3 -
+/wp-admin/wp-login.php 1 -
+/wp-admin/images/index.php 1 -
+/fw.php 2 -
+/.well-known/dropdown.php 1 -
+/about.php7 1 -
+/alfa-rex2.php7 1 -
+/readme.php 1 -
+/wp-content/themes/404.php 1 -
+/alfanew.php 3 -
+/wp-admin/ajax-actions.php 1 -
+/wp-content/file.php 1 -
+/wp-admin/wp-signup.php 1 -
+/wp-admin/repeater.php 1 -
+/.well-known/security.txt 1 http://www.electric-works.kyiv.ua/.well-known/security.txt
+/.well-known/pki-validation/index.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 81
+89.64.7.144 77 682 45904755 20240830002629
+88.155.162.93 6 66 4302314 20240809090236
+178.251.109.237 6 66 4346832 20240810020416
+178.251.109.239 6 66 4270591 20240830000034
+31.0.32.123 6 66 4346832 20240811181617
+152.39.227.27 6 64 4562215 20240815134159
+152.39.168.20 6 64 4562215 20240815134105
+54.88.179.33 5 5 236622 20240821043336
+35.171.144.152 4 4 191315 20240821043344
+54.202.153.122 2 2 13038 20240801172848
+162.142.125.211 1 4 13623 20240815221556
+193.34.72.83 1 1 6519 20240824040455
+45.139.64.194 0 1 1952 
+167.94.146.48 1 4 13623 20240831170847
+162.142.125.192 1 4 13623 20240831204535
+209.127.104.28 0 1 13412 
+186.179.59.103 0 1 69899 
+87.236.176.67 1 1 6519 20240816231837
+38.154.198.91 0 1 5361 
+149.56.150.145 1 1 48058 20240815153933
+157.245.14.209 1 2 8481 20240804105206
+18.237.241.200 1 1 6519 20240801145629
+192.241.67.180 0 1 3781 
+95.164.157.31 0 1 3552 
+35.189.243.230 1 1 6519 20240811192418
+87.236.176.250 0 1 3781 
+162.142.125.33 1 4 13623 20240825203435
+38.154.214.8 0 1 1361 
+95.164.159.89 0 1 9079 
+87.236.176.106 0 1 1962 
+34.209.54.39 1 1 6519 20240813174017
+87.236.176.119 1 1 6519 20240829065236
+35.85.62.253 2 2 13038 20240811200427
+87.236.176.102 0 1 1962 
+35.211.10.21 1 7 143946 20240812195737
+45.139.64.99 0 1 12549 
+193.34.72.9 0 1 1962 
+87.236.176.12 0 1 3781 
+199.244.88.228 1 1 6519 20240828223319
+217.160.202.182 2 2 13038 20240817091911
+178.128.226.186 1 2 8481 20240818052220
+206.168.34.116 1 4 13623 20240826232411
+35.91.240.42 2 2 13038 20240825175532
+87.236.176.253 1 1 6519 20240817025529
+45.139.67.32 0 1 8096 
+199.45.154.145 1 4 13623 20240817212756
+199.45.155.73 1 4 13623 20240815031841
+87.236.176.252 0 1 1361 
+199.45.154.131 1 4 13623 20240825195656
+52.24.223.152 1 1 48058 20240811101359
+191.102.174.139 0 1 5911 
+18.237.189.239 2 2 13038 20240829175036
+159.203.74.105 1 2 8481 20240826090437
+186.179.59.2 0 1 19507 
+87.236.176.222 0 1 1962 
+34.222.234.116 2 2 13038 20240831194324
+62.141.44.236 1 1 6519 20240805011648
+34.216.239.140 2 2 13038 20240803194358
+199.45.154.141 1 4 13623 20240817212540
+87.236.176.246 0 1 3781 
+45.139.66.42 0 1 19556 
+199.244.88.218 1 1 6519 20240815014136
+45.139.66.247 0 1 13024 
+87.236.176.25 1 1 6519 20240828195826
+170.254.178.204 0 1 18912 
+178.254.38.45 1 1 6519 20240824004543
+44.243.8.46 2 2 13038 20240821175520
+24.144.89.46 1 2 8481 20240812104447
+87.236.176.133 0 1 3781 
+87.236.176.117 0 1 1361 
+34.208.229.167 1 1 6519 20240811200433
+87.236.176.9 0 1 1361 
+205.169.39.18 1 1 6519 20240803175713
+87.236.176.125 0 1 1361 
+198.244.152.59 1 1 6519 20240815155841
+66.249.89.67 1 1 355 20240809043628
+199.45.155.65 1 4 13623 20240831194813
+165.227.163.204 1 2 8481 20240809221310
+199.45.155.68 1 4 13623 20240831181525
+23.82.110.250 1 1 6519 20240819105336
+87.236.176.120 0 1 1962 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20240801 21 84 4985650 6
+20240803 3 3 19557 2
+20240804 8 66 4574755 2
+20240805 1 1 6519 1
+20240809 14 137 8663725 4
+20240810 6 66 4346832 1
+20240811 12 72 4427485 6
+20240812 2 9 152427 2
+20240813 8 66 4568734 2
+20240815 17 139 9212772 7
+20240816 1 4 13623 1
+20240817 16 88 5191507 5
+20240818 3 4 104597 2
+20240819 13 128 9128987 2
+20240821 4 4 109154 3
+20240822 6 68 4350155 1
+20240824 2 18 220952 2
+20240825 4 10 40284 3
+20240826 2 6 22104 2
+20240828 2 5 20142 2
+20240829 11 77 4750647 3
+20240830 12 134 8623166 2
+20240831 6 18 67530 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+2mn-5mn 1
+0s-30s 64
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 82 954190 65 52
+/fonts/Inter-Bold.woff 16 2557952 0 0
+/fonts/Inter-Regular.woff 16 2396416 0 5
+/fonts/Inter-ExtraLight.woff 16 2508608 0 1
+/fonts/Robotesqa4F-Bold.woff 16 780672 0 0
+/img/image_background_header_mob.webp 10 761460 0 4
+/img/image_background_header.webp 8 2176096 0 0
+/css/style.css.map 3 18063 0 2
+/img/big-photo-5.webp 1 112634 0 1
+/img/big-photo-3.webp 1 71626 0 0
+/img/big-photo-1.webp 1 117020 0 0
+/googleb9428777348685a9.html 1 355 1 1
+/img/big-photo-2.webp 1 38638 0 0
+/img/big-photo-8.webp 1 146490 0 0
+/img/big-photo-4.webp 1 149446 0 0
+END_SIDER

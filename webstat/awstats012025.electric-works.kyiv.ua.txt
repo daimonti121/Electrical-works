@@ -1,0 +1,709 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202501 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.electric-works.kyiv.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2005                
+POS_TIME 2670                
+POS_VISITOR 18217               
+POS_DAY 21614               
+POS_DOMAIN 3443                
+POS_LOGIN 3675                
+POS_ROBOT 3830                
+POS_WORMS 4511                
+POS_EMAILSENDER 4642                
+POS_EMAILRECEIVER 4785                
+POS_SESSION 22199               
+POS_SIDER 22358               
+POS_FILETYPES 4920                
+POS_DOWNLOADS 5120                
+POS_OS 5168                
+POS_BROWSER 5329                
+POS_SCREENSIZE 5948                
+POS_UNKNOWNREFERER 6022                
+POS_UNKNOWNREFERERBROWSER 6524                
+POS_ORIGIN 6623                
+POS_SEREFERRALS 6760                
+POS_PAGEREFS 6923                
+POS_SEARCHWORDS 7155                
+POS_KEYWORDS 7341                
+POS_MISC 2334                
+POS_ERRORS 7436                
+POS_CLUSTER 3531                
+POS_SIDER_404 7572                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250126012754 23 4114 10082611246839
+FirstTime 0
+LastTime 20250126012736
+LastUpdate 20250126052733 23 0 23 0 0
+TotalVisits 74                  
+TotalUnique 64                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 94                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 67 4573876 18 22 141544
+1 35 339 21905159 50 86 329673
+2 16 143 8735910 24 38 108209
+3 0 0 0 18 89 1336322
+4 1 4 13623 19 19 13866
+5 3 9 150820 4 38 108814
+6 2 2 13038 19 27 57020
+7 13 71 4607848 16 18 114714
+8 6 68 4350155 43 55 2692469
+9 14 153 10414441 165 170 67968
+10 6 9 44399 5 6 8230
+11 9 70 4588876 32 62 2333124
+12 11 71 4379427 49 107 3705982
+13 8 70 4407152 55 146 5898609
+14 8 9 54114 3 34 13574
+15 16 141 9171818 18 48 452341
+16 1 1 6519 22 31 106350
+17 4 5 28038 7 8 3201
+18 4 4 26076 4 20 312217
+19 3 6 109739 39 42 135714
+20 4 5 28038 33 41 62572
+21 1 4 13623 41 68 27150
+22 1 2 8481 19 59 4479265
+23 2 5 20142 48 60 1746133
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 175 1258 77651312
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+Googlebot/ 86 1415850 20250121152355 0
+bot[\s_+:,\.\;\/\\-] 80 5729681 20250124030420 0
+dataprovider\.com 73 5726557 20250112134958 0
+python 61 507112 20250125225932 0
+sift 48 4468753 20250106221906 0
+facebookexternalhit/ 26 721851 20250126004452 0
+Googlebot\-Image/ 12 1365372 20250121152356 0
+facebook 10 2531403 20250114082824 0
+curl 8 384464 20250124030929 0
+custo 7 336406 20250125150446 0
+bingbot/ 4 373774 20250124182841 0
+no_user_agent 5 240290 20250125080004 0
+netcraft 2 96116 20250106161706 0
+Apache\-HttpClient/ 1 6519 20250117045703 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 85 1055302 0 0
+png 822 60756731 0 0
+webp 17 2665544 0 0
+html 90 705163 0 0
+js 159 3417993 0 0
+svg 17 291703 0 0
+woff 68 8758876 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+macosx 6 1
+Unknown 70 26
+linuxandroid 209 23
+ios_iphone 463 43
+win10 498 76
+linux 11 5
+unix 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+chrome60.0.3112.107 1 1
+chrome78.0.3904.108 2 2
+chrome89.0.4389.82 4 4
+chrome74.0.3729.131 4 4
+chrome131.0.0.0 390 38
+chrome105.0.0.0 1 1
+safari 66 6
+chrome73.0.3683.86 1 1
+chrome106.0.0.0 1 1
+chrome124.0.0.0 7 1
+chrome80.0.3987.162 1 1
+Unknown 2 2
+firefox133.0 1 1
+chrome66.0.3359.181 4 4
+chrome117.0.5938.132 126 12
+chrome58.0.3029.110 7 7
+chrome132.0.6834.74 68 6
+chrome100.0.4896.75 12 12
+chrome130.0.0.0 2 2
+chrome27.0.1453.116 1 1
+iphone 397 37
+android 1 1
+chrome108.0.0.0 20 0
+mozilla 64 20
+chrome91.0.4472.114 3 3
+chrome107.0.0.0 4 1
+chrome131.0.6778.200 68 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250126012751
+Mozilla/5.0_(compatible) 20250119024114
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20250108055054
+\ 20250120071530
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko)_Chrome/74.0.3729.131_Safari/537.36 20250125144022
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250123015625
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+\ 20250120071530
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 64 136
+From1 1 1
+From2 9 9
+From3 8 8
+From4 93 1104
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 9 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://l.instagram.com 6 6
+http://m.facebook.com 1 1
+https://www.instagram.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//electric-works.kyiv.ua/ 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//electric-works.kyiv.ua/ 1
+https 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+206 2 13132
+302 1 138
+404 828 331866
+403 8 3185
+429 16 2592
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 289
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/uploads/ 1 www.google.com
+/fonts/slick.svg 9 https://electric-works.kyiv.ua/
+/wp-content/uploads/makeasmtp.php 3 -
+/wp-includes/css/ 2 www.google.com
+/wp-includes/SimplePie/autoload_classmap.php 2 -
+/wp-includes/fonts/ 2 www.google.com
+/sitemap.txt 2 -
+/wp-content/x.php 2 -
+/sftp-config.json 1 -
+/template/ 1 www.google.com
+/assets/images/ 1 www.google.com
+//wp2/wp-includes/wlwmanifest.xml 1 -
+/temp 1 www.google.com
+/sitemap_index.xml 2 -
+/.ssh/id_rsa 1 -
+/wp-includes/rest-api/ 2 www.google.com
+/google495c1f5373e8224f.html 1 -
+/wp-content/plugins/erinyani/baxa1.php 1 www.google.com
+/wp-includes/assets/ 1 www.google.com
+/.git/config 10 -
+/wp-includes/sodium_compat/src/ 1 www.google.com
+/wp-admin/css/autoload_classmap.php 2 -
+/.env.production 1 -
+/.well-known/traffic-advice 2 -
+/wp-includes/certificates/wp-conflg.php 5 -
+/links.php 2 -
+/include/ 1 www.google.com
+/wp-content/packed.php 2 -
+/wp-content/plugins/about.php 2 -
+/app/.git/config 1 -
+/wp-content/plugins/index.php 5 -
+/Admin/uploads/ 1 www.google.com
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/Requests/wp-conflg.php 5 -
+/.git-ftp-include 1 -
+/rx.php 2 -
+/.env.local 1 -
+/wp-includes/IXR/links.php 2 -
+/wp-admin/css/makeasmtp.php 3 -
+/wp-includes/theme-compat/ 1 www.google.com
+/Assets/ 1 www.google.com
+/wp-includes/Requests/Auth/ 1 www.google.com
+/ALFA_DATA/ 2 www.google.com
+/wp-includes/js/jcrop/Jcrop.php 5 -
+/wp-includes/widgets/autoload_classmap.php 2 -
+/upload/image/ 1 www.google.com
+/admin/fckeditor/editor/filemanager/ 1 www.google.com
+/wp-includes/random_compat/ 1 www.google.com
+/go.php 2 -
+/wp-content/themes/themes/Cyb3r.php 2 -
+/wp-includes/js/autoload_classmap.php 2 -
+/wp-includes/Text/ 2 www.google.com
+/menu-burger/logic.js 3 -
+/wp-includes/SimplePie/ 2 www.google.com
+/wp-admin/css/colors/ectoplasm/zmFM.php 7 -
+/wp-includes/images/smilies/ 1 www.google.com
+/fonts/slick.eot 1 -
+/wp-admin/maint/ 1 www.google.com
+/sites/default/files/ 1 www.google.com
+/humans.txt 1 http://www.electric-works.kyiv.ua/humans.txt
+/wp-admin/images/autoload_classmap.php 2 -
+/wp-admin/images/links.php 2 -
+/wp-content/themes/digital-download/new.php 2 -
+/wp-includes/style-engine/makeasmtp.php 3 -
+/wp-includes/customize/zmFM.php 7 -
+/plugins/ 1 www.google.com
+/wp-includes/PHPMailer//zmFM.php 7 -
+/config/secrets.yml 1 -
+/wp-admin/css/colors/ectoplasm/links.php 2 -
+/wp-includes/block-patterns/makeasmtp.php 3 -
+/components/ 1 www.google.com
+/electric-works 1 www.google.com
+//2018/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/blocks/ 2 www.google.com
+/sitemap.xml.gz 2 -
+/wp-includes/SimplePie/Content/Type/ 1 www.google.com
+/wp-content/plugins/ 1 www.google.com
+/credentials.json 1 -
+/wp-includes/IXR/ 2 www.google.com
+/baxa1.php7 1 www.google.com
+/wp-content/plugins/view-more/ioxi.php 1 www.google.com
+/wp-includes/Requests/Exception/ 1 www.google.com
+//sito/wp-includes/wlwmanifest.xml 1 -
+/wp-content/themes/classic/inc/ 1 www.google.com
+//website/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/rest-api/fields/ 1 www.google.com
+/wp-admin/includes/wp-conflg.php 5 -
+/about/function.php 7 -
+/.vscode/sftp.json 1 -
+/wp-content/plugins/erinyani/baxa1.php7 1 www.google.com
+/sitemap.xml 3 -
+/.aws/credentials 1 -
+/wp-includes/rest-api/search/ 1 www.google.com
+/jquery.min.js 2 -
+/wp-admin/includes/links.php 2 -
+/wp-includes/js/codemirror/ 1 www.google.com
+/wp-admin/includes/ 1 www.google.com
+/modules/ 1 www.google.com
+/vendor/ 1 www.google.com
+/media/system/js/core.js 3 http://electric-works.kyiv.ua/media/system/js/core.js
+/wordpress 2 www.google.com
+/public/.env 1 -
+//wp-includes/wlwmanifest.xml 1 -
+/new 1 www.google.com
+/smtp.json 1 -
+/wp-includes/fonts/links.php 2 -
+/email.config 1 -
+/file/function.php 7 -
+/test 1 www.google.com
+/wp-includes/js/crop/ 1 www.google.com
+/wp-admin/user/ 1 www.google.com
+/packed.php 2 -
+/wp-includes/sodium_compat/ 1 www.google.com
+/wp-admin/maint//links.php 2 -
+/plugins/function.php 7 -
+/dup-installer/main.installer.php 2 http://electric-works.kyiv.ua/dup-installer/main.installer.php
+/secrets.json 1 -
+/wp-admin/css/colors/ 1 www.google.com
+/admin/ 1 www.google.com
+/wp-includes/block-supports/wp-conflg.php 5 -
+/img/arrow-before.png 1 -
+/wp-includes/Requests/Cookie/ 1 www.google.com
+/wp-admin/images/index.php 5 -
+/wp-includes/certificates/makeasmtp.php 3 -
+//xmlrpc.php 1 -
+/wp-includes/block-supports/ 1 www.google.com
+/wp.php 2 -
+/heh.php 1 www.google.com
+/NewFile.php 1 www.google.com
+/wp-includes/sitemaps/providers/ 1 www.google.com
+/wp-includes/rest-api/wp-conflg.php 5 -
+/wp-includes/certificates/ 2 www.google.com
+/wp-admin/images/ 1 www.google.com
+/index/function.php 12 -
+/admin/uploads/ 1 www.google.com
+/wp-content/themes/too.php 2 -
+/wp-includes/pomo/autoload_classmap.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/ 1 www.google.com
+//media/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/php-compat/ 1 www.google.com
+/wp-login.php 2 -
+/wp-includes/html-api/wp-conflg.php 5 -
+/wp-includes/widgets/ 2 www.google.com
+/wp-includes/Requests/Response/ 1 www.google.com
+/wp-content/plugins/seoxx/randkeyword.php 1 www.google.com
+/doc/function.php 7 -
+/wp-includes/sitemaps/autoload_classmap.php 2 -
+/wp-includes/sitemaps/providers/zmFM.php 7 -
+/.github/workflows/main.yml 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/favicon/site.webpanifest 19 https://electric-works.kyiv.ua/
+//site/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/Requests/Utility/ 1 www.google.com
+/wp-includes/images/crystal/ 1 www.google.com
+/wp-content/uploads/wp-conflg.php 5 -
+/.well-knownold/ 2 www.google.com
+/wp-content/plugins/plugins/Cyb3r.php 2 -
+/wp-includes/widgets/wp-conflg.php 5 -
+/wp-admin/network/index.php 5 -
+/wp-content/upgrade/ 1 www.google.com
+/admin/function.php 7 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+/photo/logicPhoto.js 3 -
+/wp-includes/sitemaps/wp-conflg.php 5 -
+/wp-includes/style-engine/ 1 www.google.com
+/files/ 1 www.google.com
+/wp-includes/assets/wp-conflg.php 5 -
+/wp-includes/SimplePie/Cache/ 1 www.google.com
+/wp-includes/block-patterns/wp-conflg.php 5 -
+/modal-btn/modal-logic.js 3 -
+/wp 2 www.google.com
+/wp-includes/html-api/ 1 www.google.com
+/.aws/config 1 -
+/wp-admin/meta/ 1 www.google.com
+/local/ 1 www.google.com
+/fonts/slick.woff 25 https://electric-works.kyiv.ua/slick/slick-theme.css
+/ads.txt 5 -
+/backup 1 www.google.com
+/php/ 1 www.google.com
+/wp-conflg.php 5 -
+//news/wp-includes/wlwmanifest.xml 1 -
+/baxa1.php 1 www.google.com
+/.env 7 -
+/luuf.php 2 -
+/scroll/scroll.js 3 -
+/robots.txt 98 -
+/wp-includes/SimplePie/about.php 2 -
+/wp-includes/SimplePie/Content/index.php 2 -
+/admin.php 1 http://electric-works.kyiv.ua
+/wp-content/upgrade/links.php 2 -
+/logic.js 3 -
+/wp-admin/ 1 www.google.com
+/wp-admin/css/wp-conflg.php 5 -
+/wp-includes/pomo/ 2 www.google.com
+/fonts/slick.ttf 25 https://electric-works.kyiv.ua/slick/slick-theme.css
+/wp-includes/ID3/links.php 2 -
+/.git-credentials 1 -
+/wp-includes/pomo/wp-conflg.php 5 -
+/mah/function.php 7 -
+/x.php 2 -
+/wp-includes/Text/Diff/Engine/Engine/ 1 www.google.com
+//shop/wp-includes/wlwmanifest.xml 1 -
+/wp-content/mu-plugins-old/ 1 www.google.com
+/shop/ 1 www.google.com
+/wp-includes/theme-compat/zmFM.php 7 -
+/wp-includes/random_compat/wp-conflg.php 5 -
+/geju.php 2 -
+/wp-includes/SimplePie/Content/ 1 www.google.com
+/as/function 7 -
+/old 1 www.google.com
+/admin/images/slider/ 1 www.google.com
+/admin/editor/ 1 www.google.com
+/wp-includes/rest-api/search/makeasmtp.php 3 -
+/images/ 1 www.google.com
+/wp-includes/images/media/ 1 www.google.com
+/wp-includes/images/ 2 www.google.com
+/wp-content/themes/ 1 www.google.com
+/.bitbucket-pipelines.yml 1 -
+/modules/mod_simplefileuploadv1.3/elements/ 1 www.google.com
+/Site/ 1 www.google.com
+//wp/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/ 1 www.google.com
+/system/ 1 www.google.com
+/admin/uploads/images/ 1 www.google.com
+/luuuf.php 2 -
+/sms_config.json 1 -
+/wp-admin/includes/nav.php 7 -
+/wp-includes/js/ 2 www.google.com
+/wp-content/plugins/ninja-forms/ 1 www.google.com
+/wp-admin/js/makeasmtp.php 3 -
+/admin/controller/extension/extension/ 1 www.google.com
+/wp-includes/ID3/ 2 www.google.com
+/makeasmtp.php 3 -
+/wp-includes/certificates/zmFM.php 7 -
+/vendor/phpunit/phpunit/phpunit.xsd 3 -
+/wp-content/ 3 -
+/wp-includes/js/jquery/jquery.js 6 http://electric-works.kyiv.ua/wp-includes/js/jquery/jquery.js
+/wp-includes/sitemaps/ 1 www.google.com
+/.well-known/pki-validation/wp-conflg.php 5 -
+/terraform.tfstate 1 -
+/wp-includes/Requests/Proxy/ 1 www.google.com
+/wp-includes/fonts/about.php 5 -
+/wp-ver.php 2 www.google.com
+/wp-admin/js/wp-conflg.php 5 -
+/.well-known/acme-challenge/zmFM.php 7 -
+//code.jquery.com/jquery-1.11.0.min.js 3 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/Requests/Transport/ 1 www.google.com
+/wp-includes/Text/Diff/Engine/ 1 www.google.com
+/ans.php 2 -
+/wp-includes/block-patterns/ 1 www.google.com
+/wp-includes/assets/winnner.php 2 -
+/wp-includes/PHPMailer/ 1 www.google.com
+/wp-includes/PHPMailer/wp-conflg.php 5 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Core32.php 7 -
+/wp-includes/Text/Diff/Renderer/ 1 www.google.com
+//web/wp-includes/wlwmanifest.xml 1 -
+/Public/ 1 www.google.com
+/wp-content/uploads/ 1 www.google.com
+/wp-includes/Requests/Exception/HTTP/ 1 www.google.com
+/assets/ 1 www.google.com
+/wp-includes/images/wlw/ 1 www.google.com
+//code.jquery.com/jquery-migrate-1.2.1.min.js 3 -
+/images/stories/ 1 www.google.com
+/wp-admin/network/ 1 www.google.com
+/blog 1 www.google.com
+/ajax-loader.gif 25 https://electric-works.kyiv.ua/slick/slick-theme.css
+//test/wp-includes/wlwmanifest.xml 1 -
+/upload/ 1 www.google.com
+/slick.min.js 3 -
+/wp-includes/customize/ 2 www.google.com
+/worksec.php 2 -
+/wp-includes/block-patterns/autoload_classmap.php 2 -
+/security.txt 1 http://www.electric-works.kyiv.ua/security.txt
+/wp-content/mu-plugins/ 1 www.google.com
+/wp-includes/SimplePie/wp-conflg.php 5 -
+/wp-content/uploads/autoload_classmap.php 2 -
+/wp-includes/Requests/ 2 www.google.com
+/wp-admin/css/colors/ectoplasm/ 1 www.google.com
+/wp-admin/css/ 3 www.google.com
+//2019/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/pomo/zmFM.php 7 -
+/wp-content/themes/wp-pridmag/init.php 2 -
+/wp-includes/Text/Diff/ 1 www.google.com
+/rafa.php 2 -
+/.well-known/security.txt 1 http://www.electric-works.kyiv.ua/.well-known/security.txt
+/wp-includes/rest-api/endpoints/ 1 www.google.com
+/light/logick.js 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 94
+77.75.148.253 19 197 13171211 20250114013555
+89.64.7.144 16 194 13461547 20250114113507
+35.171.144.152 9 9 58671 20250119014325
+88.154.80.22 6 66 4346832 20250114022742
+205.169.39.21 6 63 4560253 20250107094010
+205.169.39.37 6 63 4560253 20250108001206
+178.251.109.237 6 66 4346832 20250114014950
+193.238.33.114 6 66 4346832 20250114120314
+88.154.31.56 6 68 4352575 20250109135503
+178.251.109.238 6 66 4346832 20250114020840
+24.144.105.127 1 2 8481 20250119024111
+186.179.59.117 0 1 19556 
+206.168.34.92 1 4 13623 20250111152041
+46.101.167.242 1 2 8481 20250113140733
+193.34.75.164 0 2 24868 
+185.247.137.117 0 1 3781 
+217.160.202.182 1 1 6519 20250110114411
+91.242.123.31 0 2 20864 
+95.164.78.251 0 1 8096 
+91.242.72.32 0 1 9471 
+38.154.214.19 0 2 212125 
+72.14.201.50 1 1 6519 20250114111227
+199.244.88.231 1 1 6519 20250109141022
+66.249.92.22 1 1 355 20250108055054
+91.242.125.44 0 1 13412 
+185.247.137.30 1 1 6519 20250107004902
+75.119.154.217 1 1 6519 20250123181351
+184.72.215.60 0 1 1361 
+87.236.176.142 1 1 6519 20250106211102
+87.236.176.216 0 1 1361 
+15.237.130.183 1 1 6519 20250109233055
+46.228.199.158 1 1 6519 20250118174951
+104.192.2.122 1 1 6519 20250125025636
+3.90.200.31 1 1 6519 20250106142829
+139.171.27.223 1 1 6519 20250120071530
+206.168.34.83 1 4 13623 20250119152220
+54.88.179.33 3 3 19557 20250119014324
+35.240.203.164 2 2 96116 20250102195629
+173.212.240.93 4 4 26076 20250116073701
+35.212.166.46 1 7 143946 20250110055044
+191.102.155.171 0 1 1962 
+185.247.137.232 0 1 1361 
+143.110.191.71 1 2 8481 20250101101823
+18.236.101.224 2 2 13038 20250103171913
+185.247.137.229 0 1 1361 
+72.14.201.44 1 1 6519 20250102071831
+165.22.33.152 1 2 8481 20250110221722
+217.142.184.125 3 3 19557 20250106164836
+167.94.138.193 1 4 13623 20250126012736 20250126012736 /
+54.91.117.144 2 2 13038 20250111203022
+18.237.111.56 2 2 13038 20250115185658
+132.255.133.101 0 1 3781 
+167.94.138.184 1 4 13623 20250124191433
+147.182.150.103 1 2 8481 20250105170518
+191.102.157.89 0 1 69899 
+45.140.42.130 1 1 6519 20250109122819
+144.217.135.155 1 1 48058 20250112134939
+207.170.177.123 1 1 6519 20250116134545
+167.71.231.22 1 2 8481 20250108203306
+185.247.137.74 0 1 1962 
+191.102.155.89 1 1 6519 20250117045704
+109.70.108.10 4 4 26076 20250125144022
+87.236.176.122 0 1 1962 
+185.247.137.31 1 1 6519 20250123015624
+206.168.34.223 1 4 13623 20250111153755
+95.164.157.184 0 1 5911 
+185.247.137.131 0 1 3781 
+193.34.72.170 0 2 22103 
+167.94.138.44 1 4 13623 20250125231748
+185.247.137.44 0 1 3781 
+205.169.39.7 1 1 6519 20250116155918
+132.255.135.105 0 1 3552 
+72.14.201.46 1 1 6519 20250102073805
+176.115.103.183 6 66 4346832 20250114014458
+88.154.84.34 6 68 4350155 20250114082728
+3.249.221.39 2 2 13038 20250106091628
+193.186.4.47 1 1 6519 20250114113507
+154.203.197.137 1 1 6519 20250114140605
+193.107.107.73 6 64 4562215 20250108154633
+95.164.158.117 0 1 24612 
+170.246.53.185 0 1 993566 
+162.142.125.197 1 4 13623 20250109020847
+95.164.156.148 0 1 3189 
+191.102.149.84 0 1 47222 
+143.244.46.114 6 64 4562215 20250108151836
+185.247.137.109 0 1 1361 
+185.247.137.168 1 1 6519 20250122101126
+87.236.176.247 0 1 1962 
+109.199.118.129 1 1 6519 20250103070753
+162.142.125.33 1 4 13623 20250115113628
+206.168.34.46 1 4 13623 20250109024427
+185.247.137.247 0 1 1962 
+170.254.179.244 0 1 12549 
+34.57.137.153 1 1 6519 20250123063458
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20250101 1 2 8481 1
+20250102 11 69 4677888 6
+20250103 3 3 19557 2
+20250105 1 2 8481 1
+20250106 5 8 39699 4
+20250107 9 69 4586914 4
+20250108 20 194 13693519 5
+20250109 15 83 4425454 7
+20250110 4 11 165465 4
+20250111 3 9 33765 3
+20250112 1 1 48058 1
+20250113 1 2 8481 1
+20250114 69 729 48180934 12
+20250115 3 6 26661 2
+20250116 6 6 39114 3
+20250117 1 24 1504618 1
+20250118 5 5 32595 3
+20250119 4 8 35142 4
+20250120 1 1 6519 1
+20250122 1 3 9842 1
+20250123 3 6 26661 3
+20250124 1 4 13623 1
+20250125 6 9 46218 3
+20250126 1 4 13623 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 72
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 89 704808 71 58
+/fonts/Inter-Bold.woff 17 2717824 0 0
+/fonts/Robotesqa4F-Bold.woff 17 829464 0 0
+/fonts/Inter-Regular.woff 17 2546192 0 6
+/fonts/Inter-ExtraLight.woff 17 2665396 0 2
+/img/image_background_header_mob.webp 10 761460 0 5
+/img/image_background_header.webp 7 1904084 2 1
+/googleb9428777348685a9.html 1 355 1 1
+END_SIDER
